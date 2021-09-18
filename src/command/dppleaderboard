@@ -1,0 +1,9 @@
+$nomention
+$cooldown[10s;Slowdown abit]
+$description[
+[------Click here------](https://image.thum.io/get/https://droidppboard.herokuapp.com/?page=$noMentionMessage)
+
+
+]
+$image[https://image.thum.io/get/https://droidppboard.herokuapp.com/?page=$noMentionMessage[1]]
+$deleteIn[20s]
