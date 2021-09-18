@@ -1,0 +1,13 @@
+$nomention
+$cooldown[5s;Slowdown a bit]
+$title[**Droid Performance Point Leaderboard**]
+$image[https://image.thum.io/get/https://droidppboard.herokuapp.com/?page=$noMentionMessage[1]]
+$footerIcon[https://avatars.githubusercontent.com/u/49559158?s=280&v=4]
+$footer[**Stella Vermillion I 
+hour:$minute]
+$addButton[yes;close;Close;danger;no;]
+$addButton[yes;https://droidppboard.herokuapp.com/?page=$noMentionMessage[1];Enter website;link;no;]
+$deleteIn[30s]
+$suppressErrors[]
+$ephemeral
+$setUserVar[lbpage;$noMentionMessage[1];$authorID]
