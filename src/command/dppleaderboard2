@@ -6,6 +6,7 @@ $footerIcon[https://avatars.githubusercontent.com/u/49559158?s=280&v=4]
 $footer[**Stella Vermillion I 
 hour:$minute]
 $addButton[yes;close;Close;danger;no;]
+$c[$addButton to add a button, $addButton[new row (yes/no);interaction ID or url;label;style;disabled (yes/no);emoji (leave empty if not needed);messageID(optional)]}
 $addButton[yes;https://droidppboard.herokuapp.com/?page=$noMentionMessage[1];Enter website;link;no;]
 $deleteIn[30s]
 $suppressErrors[]
