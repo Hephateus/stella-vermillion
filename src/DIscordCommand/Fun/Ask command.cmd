@@ -1,4 +1,0 @@
-$nomention
-$title[]
-$description[]
-$footer[]
