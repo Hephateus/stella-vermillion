@@ -1,2 +1,2 @@
 # stella-vermillion
-Discord bot developed and maintained by me
+A discord bot developed and maintained by me
